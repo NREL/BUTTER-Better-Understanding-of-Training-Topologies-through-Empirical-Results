@@ -1,0 +1,9 @@
+pyarrow>=8.0.0
+matplotlib>=3.5
+jupyter
+notebook
+numpy
+scipy
+matplotlib
+s3fs
+pandas
