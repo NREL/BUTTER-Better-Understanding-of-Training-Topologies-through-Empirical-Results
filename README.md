@@ -1,5 +1,7 @@
 <img src="examples/star-collage.png?raw=true" alt="Collage image demonstrating several axis of the BUTTER dataset" width=300px />
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/NREL/BUTTER-Better-Understanding-of-Training-Topologies-through-Empirical-Results/main?labpath=examples%2FBUTTER-Access-Example-Python.ipynb)
+
 # NREL Butter Deep Learning Dataset
 
 This repository contains code, notebooks, and instructions that can be used to reproduce the figures and analysis in our upcoming paper and provide examples to access the NREL Butter Empirical Deep Learning Dataset via AWS S3.
